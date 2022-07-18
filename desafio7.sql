@@ -1,0 +1,1 @@
+SELECT id FROM products ORDER BY id DESC, product_name ASC LIMIT 5;
